@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fUhRPvnXrCzKEY/FU0WbCyVmQw8oRLkdP5Ol8mUS3cTjmoI14QAYcIufgdkuNznul2iyMU7UiSVb7hZ1vys6sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jean\\source\\repos\\Simala.JeanLucca.Division\\Entidades\\Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jean\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jean\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

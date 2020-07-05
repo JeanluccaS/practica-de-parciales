@@ -1,0 +1,10 @@
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\bin\Debug\testEntidades.exe.config
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\bin\Debug\testEntidades.exe
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\bin\Debug\testEntidades.pdb
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\bin\Debug\Entidades.dll
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\bin\Debug\Entidades.pdb
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\obj\Debug\testEntidades.csprojAssemblyReference.cache
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\obj\Debug\testEntidades.csproj.CoreCompileInputs.cache
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\obj\Debug\testEntidades.csproj.CopyComplete
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\obj\Debug\testEntidades.exe
+C:\Users\jean\source\repos\Simala.JeanLucca.Division\testEntidades\obj\Debug\testEntidades.pdb
